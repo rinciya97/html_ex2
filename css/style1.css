@@ -1,0 +1,83 @@
+
+header
+{
+overflow: hidden;
+width: 100%;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+header h1
+{
+	font-family: cursive;
+	font-size: 45px;
+	font-style: italic;
+	color:purple;
+}
+
+nav
+{   
+margin-left:200px;	
+}
+nav li
+{
+	display:inline;
+	padding-right:2px;
+	font-size: 20px;
+	
+}
+.column
+{
+	width: 1593px;
+	overflow: hidden;
+	margin-bottom: 60px;
+}
+#first
+{
+	width: 531px;
+	float: left;
+	font-size: 20px;
+	font-style: italic;
+	line-height:25px;
+	height: 420px;
+}
+#middle img
+{
+	width: 531px;
+	float: left;
+}
+#last
+{
+	width: 531px;
+	float: right;
+	height: 420px;
+	font-size: 25px;
+	font-style: italic;
+}
+#last section
+{
+	margin-left:0px;
+	height:140px;
+	margin-right: 0px;
+}
+#last p
+{
+  margin-bottom: 35px;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 10px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+footer 
+{
+   background: grey;
+	line-height: 15px;
+}
+
